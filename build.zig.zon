@@ -1,0 +1,14 @@
+.{
+    .name = .security_netsec,
+    .version = "0.1.0",
+    .fingerprint = 0x9ada8f63ca6ff76c,
+    .minimum_zig_version = "0.17.1",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "README.md",
+    },
+}
